@@ -19,6 +19,8 @@ public class Password {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //PASSWORD NICOLE
+        //comentario
         String N;
         String P="";
         int longitud;
